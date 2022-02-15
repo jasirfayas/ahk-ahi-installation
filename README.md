@@ -3,7 +3,7 @@
 ## Step 1 - Install AutoHotKey
 Download latest release from [autohotkey.com](https://www.autohotkey.com/)
 or
-Direct Download -> [setup exe file](https://www.autohotkey.com/download/ahk-install.exe)
+Direct Download -> [AutoHotKey_setup.exe](https://www.autohotkey.com/download/ahk-install.exe)
 
 ## Step 2 - Install Interception
 
