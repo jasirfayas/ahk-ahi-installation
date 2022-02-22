@@ -15,4 +15,4 @@ Direct Download -> [Interception.zip](https://github.com/oblitum/Interception/re
 
 Download latest release from evilC's [github repo](https://github.com/evilC/AutoHotInterception/releases)
 or
-Direct Download -> [AutoHotInterception.zip](https://github.com/evilC/AutoHotInterception/releases/download/v0.7.0/AutoHotInterception.zip)
+Direct Download -> [AutoHotInterception.zip](https://github.com/evilC/AutoHotInterception/releases/download/v0.8.0/AutoHotInterception.zip)
